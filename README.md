@@ -1,6 +1,3 @@
-# NBA-Player-Archetype-Classifier
-Source and README for the NBA Player Archetype Classifier.
-
 # NBA Player Archetype Classifier
 
 This project uses per-game 2024 NBA player statistics to classify players into 5 archetypes using **K-Means Clustering** and a **Random Forest Classifier**.
